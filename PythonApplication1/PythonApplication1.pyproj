@@ -25,10 +25,6 @@
     <Compile Include="PythonApplication1.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="challenge_video.mp4" />
-    <Content Include="croppedline.mp4" />
-    <Content Include="harder_challenge_video.mp4" />
-    <Content Include="project_video.mp4" />
     <Content Include="videoplayback.mp4" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
